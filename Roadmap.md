@@ -41,6 +41,8 @@ Some areas requiring further investigation include:
    ┌───────────────┐
    │    Analysis   │
    └───────────────┘
+---
+
 ## Upcoming Work
 
 - 📖 Continue literature review
