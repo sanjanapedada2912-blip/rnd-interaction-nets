@@ -109,26 +109,7 @@ exploration of Interaction Combinators and HVM.
 
 ---
 
-## 🔗 Literature → Research Direction
 
-Our current literature exploration has contributed to the
-following research path:
-
-```text
-Yves Lafont
-Interaction Nets
-      │
-      ▼
-Understanding Computation
-      │
-      ▼
-Lambda Calculus
-      │
-      ▼
-Interaction Combinators
-      │
-      ▼
-HVM
       │
       ▼
 Future Implementation
