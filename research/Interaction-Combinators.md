@@ -1,4 +1,4 @@
-# ⚡ 03 — Interaction Combinators
+# ⚡ 02— Interaction Combinators
 
 During our exploration of Interaction Nets and programming languages, we came across:
 
