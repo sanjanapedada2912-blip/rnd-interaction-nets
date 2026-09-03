@@ -1,4 +1,4 @@
-# λ 02 — Lambda Calculus
+# 02 — Lambda Calculus 
 
 ## Why Are We Studying Lambda Calculus?
 
