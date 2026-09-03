@@ -53,9 +53,9 @@ It helped us establish an understanding of the underlying
 computational model before exploring its connections with
 Lambda Calculus, Interaction Combinators, and HVM.
 
-### Detailed Research
+### Research
 
-For our detailed notes and current understanding:
+For our notes and current understanding:
 
 → [Interaction Nets Research](../research/Lafont-Interaction-Nets.md)
 
@@ -103,7 +103,7 @@ general computation.
 It is currently being used as a starting point for our further
 exploration of Interaction Combinators and HVM.
 
-### Detailed Research
+### Research
 
 → [Interaction Combinators](../research/Interaction-Combinators.md)
 
