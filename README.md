@@ -22,7 +22,7 @@ The project is currently focused on developing a strong theoretical foundation, 
 
 ---
 
-# Research Direction
+### Research Direction
 
 Our current research journey is:
 
@@ -43,22 +43,22 @@ Our current research journey is:
                            │
                            ▼
                  Future Implementation
-
-# Repository Structure
+```
+## Repository Structure
+```text
 rnd-interaction-nets/
 │
 ├── README.md
 │
 ├── research/
-│   ├── lafont-interaction-nets.md
-│   ├── lambda-calculus.md
-│   ├── interaction-combinators.md
-│   └── hvm.md
+│   ├── Lafont-Interaction-Nets.md
+│   ├── Lambda-Calculus.md
+│   ├── Interaction-Combinators.md
+│   └── HVM-research.md
 │
-├── literature-review/
-│   └── papers.md
+├── Literature-Review-Papers.md
+│  
+├── References.md
 │
-├── references/
-│   └── references.md
-│
-└── roadmap.md
+└── Roadmap.md
+```
