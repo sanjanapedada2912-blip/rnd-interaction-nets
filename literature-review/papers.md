@@ -108,8 +108,3 @@ exploration of Interaction Combinators and HVM.
 → [Interaction Combinators](../research/Interaction-Combinators.md)
 
 ---
-
-
-      │
-      ▼
-Future Implementation
