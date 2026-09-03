@@ -57,7 +57,7 @@ Lambda Calculus, Interaction Combinators, and HVM.
 
 For our detailed notes and current understanding:
 
-→ [Interaction Nets Research](../research/lafont-interaction-nets.md)
+→ [Interaction Nets Research](../research/Lafont-Interaction-Nets.md)
 
 ---
 
@@ -105,7 +105,7 @@ exploration of Interaction Combinators and HVM.
 
 ### Detailed Research
 
-→ [Interaction Combinators](../research/interaction-combinators.md)
+→ [Interaction Combinators](../research/Interaction-Combinators.md)
 
 ---
 
