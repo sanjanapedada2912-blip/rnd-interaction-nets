@@ -62,3 +62,9 @@ rnd-interaction-nets/
 │
 └── Roadmap.md
 ```
+
+### Team
+
+##### Members :
+1. Sanjana Pedada
+2. Gadela Rithwika
