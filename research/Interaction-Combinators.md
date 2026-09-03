@@ -10,10 +10,6 @@ This introduced us to the concept of **Interaction Combinators** and motivated u
 
 ### 🔍 Topics Being Explored
 
-<details>
-<summary><b>Click to expand</b></summary>
-<br>
-
 - Interaction Combinators
 - Interaction rules
 - Reduction
@@ -23,5 +19,3 @@ This introduced us to the concept of **Interaction Combinators** and motivated u
 - Computational universality
 - Relationship with Interaction Nets
 - Relationship with Lambda Calculus
-
-</details>
