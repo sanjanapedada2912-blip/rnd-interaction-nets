@@ -1,70 +1,42 @@
-# 📚 01 — Interaction Nets
+📚 01 — Interaction Nets
+Primary Research
 
-## Primary Research
-
-Our primary research so far has been based on **Yves Lafont's paper "Interaction Nets."**
+Our primary research so far has been based on Yves Lafont's paper "Interaction Nets."
 
 This paper introduced us to the fundamental concepts behind Interaction Nets and serves as the main theoretical starting point of our research.
 
-### 🔍 Topics Explored
+🔍 Topics Explored
 
-<details>
-<summary><b>Click to expand</b></summary>
-<br>
+<details> <summary><b>Click to expand</b></summary> <br>
 
-- Agents
-- Ports
-- Interaction rules
-- Active pairs
-- Reduction
-- Graph rewriting
-- Local interactions
-- Locality of computation
-- Confluence
-- Parallelism
-- Interaction combinators
-- Computational interpretation
+Agents
+Ports
+Interaction rules
+Active pairs
+Reduction
+Graph rewriting
+Local interactions
+Locality of computation
+Confluence
+Parallelism
+Interaction combinators
+Computational interpretation
 
 </details>
 
-### 💡 Our Current Understanding
+💡 Our Current Understanding
 
-Interaction Nets provide a graphical model of computation in which computational structures are represented using **agents connected through ports**.
+Interaction Nets provide a graphical model of computation in which computational structures are represented using agents connected through ports.
 
-Computation takes place through interactions between connected agents according to predefined **interaction rules**.
+Computation takes place through interactions between connected agents according to predefined interaction rules.
 
-A major aspect we are investigating is the idea that computation can be performed through **local graph transformations** rather than requiring a globally coordinated computation.
+A major aspect we are investigating is the idea that computation can be performed through local graph transformations rather than requiring a globally coordinated computation.
 
-### ❓ Questions We Are Investigating
-
-- How are agents represented?
-- How are interaction rules defined?
-- What exactly constitutes an active pair?
-- How does reduction take place?
-- How does graph rewriting represent computation?
-- Why is locality important?
-- How does parallelism arise from local interactions?
-
----
-
-## 📖 Paper Details
-
-**Author:** Yves Lafont  
-**Title:** Interaction Nets  
-**Conference:** POPL '90
-
-### 📝 Research Notes
-
-Add your detailed notes from the paper here.
-
-### 🔑 Key Takeaways
-
-Add the most important things you understood from the paper here.
-
-### ❓ Further Questions
-
-Add questions that came up while studying the paper.
-
-### 📌 Status
-
-🟢 **Studied**
+❓ Questions We Are Investigating
+How are agents represented?
+How are interaction rules defined?
+What exactly constitutes an active pair?
+How does reduction take place?
+How does graph rewriting represent computation?
+Why is locality important?
+How does parallelism arise from local interactions?
