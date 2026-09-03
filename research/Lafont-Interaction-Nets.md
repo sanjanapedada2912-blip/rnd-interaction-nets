@@ -8,10 +8,6 @@ This paper introduced us to the fundamental concepts behind Interaction Nets and
 
 ### 🔍 Topics Explored
 
-<details>
-<summary><b>Click to expand</b></summary>
-<br>
-
 - Agents
 - Ports
 - Interaction rules
@@ -24,8 +20,6 @@ This paper introduced us to the fundamental concepts behind Interaction Nets and
 - Parallelism
 - Interaction combinators
 - Computational interpretation
-
-</details>
 
 ### 💡 Our Current Understanding
 
