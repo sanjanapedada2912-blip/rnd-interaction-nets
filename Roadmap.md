@@ -41,8 +41,7 @@ Some areas requiring further investigation include:
    ┌───────────────┐
    │    Analysis   │
    └───────────────┘
-
-### Upcoming Work
+## Upcoming Work
 
 - 📖 Continue literature review
 - 🔍 Study Interaction Nets in greater depth
