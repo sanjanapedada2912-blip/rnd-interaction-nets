@@ -13,6 +13,9 @@ Some areas requiring further investigation include:
 
 # 🚀 Future Work
 
+Our future work will gradually move from theoretical understanding
+towards implementation and experimentation.
+
 ```text
         THEORY
            │
@@ -41,15 +44,3 @@ Some areas requiring further investigation include:
    ┌───────────────┐
    │    Analysis   │
    └───────────────┘
----
-
-## Upcoming Work
-
-- 📖 Continue literature review
-- 🔍 Study Interaction Nets in greater depth
-- 🔄 Study reduction mechanisms
-- 💻 Begin implementation
-- 🧪 Conduct experiments
-- 📊 Analyze experimental results
-- ⚡ Explore HVM further
-- 📝 Document research findings
