@@ -41,3 +41,14 @@ Some areas requiring further investigation include:
    ┌───────────────┐
    │    Analysis   │
    └───────────────┘
+
+### Upcoming Work
+
+- 📖 Continue literature review
+- 🔍 Study Interaction Nets in greater depth
+- 🔄 Study reduction mechanisms
+- 💻 Begin implementation
+- 🧪 Conduct experiments
+- 📊 Analyze experimental results
+- ⚡ Explore HVM further
+- 📝 Document research findings
