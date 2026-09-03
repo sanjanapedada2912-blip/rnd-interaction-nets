@@ -53,16 +53,23 @@ and HVM.
 ### 3. Lambda Calculus
 
 **Topic:** Lambda Calculus  
-**Type:** Theoretical computational model
+**Type:** Theoretical computational model  
+**Status:** 🟡 Exploring
+
+**External Reference:**  
+[Stanford Encyclopedia of Philosophy — The Lambda Calculus](https://plato.stanford.edu/entries/lambda-calculus/)
+
+This resource provides a detailed introduction to Lambda Calculus,
+including its syntax, variables, abstraction, application,
+substitution, β-reduction, reduction strategies, history, and
+applications in computing.
 
 **Role in Research:**  
 Explored to understand fundamental concepts such as computation,
 functions, substitution, and reduction, and to investigate their
 relationship with Interaction Nets.
 
-[→ Lambda Calculus Research](../research/Lambda-Calculus.md)
-
----
+[→ Lambda Calculus Research](../research/lambda-calculus.md)
 
 ## ⚙️ HVM
 
