@@ -1,56 +1,64 @@
-<div align="center">
+# Interaction Nets — Research & Development
 
-# 🧠 Interaction Nets
+<p align="center">
+  <strong>Exploring Interaction Nets, Graph-Based Computation, and Reduction</strong>
+</p>
 
-### Research & Development Project
-
-**Exploring Interaction Nets, Lambda Calculus, Interaction Combinators & HVM**
-
-<br>
-
-![Status](https://img.shields.io/badge/Status-Ongoing%20Research-blue)
-![Research](https://img.shields.io/badge/Research-In%20Progress-purple)
-![Topic](https://img.shields.io/badge/Topic-Interaction%20Nets-orange)
-![Exploration](https://img.shields.io/badge/Exploring-HVM-green)
-
-</div>
+<p align="center">
+  <i>Research, theoretical exploration, and future implementation of Interaction Nets and related computational models.</i>
+</p>
 
 ---
 
-## 📌 About This Repository
+## Overview
 
-This repository documents our ongoing **Research & Development (R&D)** work on **Interaction Nets**.
+This repository contains the ongoing **Research & Development (R&D) work on Interaction Nets**.
 
-The repository is intended to keep track of our research journey, including the papers and resources we study, concepts we explore, questions that arise during the research, and future implementations and experiments.
+Our research began with the study of **Yves Lafont's Interaction Nets**, focusing on its theoretical foundations, computational structure, interaction rules, and reduction mechanisms.
 
-Our research connects the following areas:
+As we explored the computational and programming-language aspects of the topic, we began investigating **Lambda Calculus** and its concepts of computation and reduction. This led us to **Interaction Combinators**, which further motivated our initial exploration of **HVM (Higher-order Virtual Machine)**.
+
+The project is currently focused on developing a strong theoretical foundation, with implementation and experimentation planned as the research progresses.
+
+---
+
+# Research Direction
+
+Our current research journey is:
 
 ```text
-                  ┌─────────────────────┐
-                  │  Interaction Nets   │
-                  │                     │
-                  │  Lafont's Research  │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │  Programming        │
-                  │  Languages          │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │   Lambda Calculus   │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │ Interaction        │
-                  │ Combinators        │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │        HVM          │
-                  │ Higher-order VM     │
-                  └─────────────────────┘
+                    Interaction Nets
+                           │
+                           ▼
+                 Understanding Computation
+                           │
+                           ▼
+                    Lambda Calculus
+                           │
+                           ▼
+                 Interaction Combinators
+                           │
+                           ▼
+                           HVM
+                           │
+                           ▼
+                 Future Implementation
+
+# Repository Structure
+rnd-interaction-nets/
+│
+├── README.md
+│
+├── research/
+│   ├── lafont-interaction-nets.md
+│   ├── lambda-calculus.md
+│   ├── interaction-combinators.md
+│   └── hvm.md
+│
+├── literature-review/
+│   └── papers.md
+│
+├── references/
+│   └── references.md
+│
+└── roadmap.md
