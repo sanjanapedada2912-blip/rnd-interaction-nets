@@ -23,7 +23,7 @@ This repository documents our ongoing **Research & Development (R&D)** work on *
 
 The repository is intended to keep track of our research journey, including the papers and resources we study, concepts we explore, questions that arise during the research, and future implementations and experiments.
 
-Our research currently connects the following areas:
+Our research connects the following areas:
 
 ```text
                   ┌─────────────────────┐
