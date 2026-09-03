@@ -69,7 +69,7 @@ Explored to understand fundamental concepts such as computation,
 functions, substitution, and reduction, and to investigate their
 relationship with Interaction Nets.
 
-[→ Lambda Calculus Research](../research/lambda-calculus.md)
+[→ Lambda Calculus Research](../research/Lambda-Calculus.md)
 
 ## ⚙️ HVM
 
