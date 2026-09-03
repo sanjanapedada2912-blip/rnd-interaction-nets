@@ -10,12 +10,12 @@ During this exploration, we came across the topic of **Interaction Combinators**
 
 by **Marvin & Christopher**.
 
-This led us to further explore Interaction Combinators and **HVM (Higher-order Virtual Machine)**.
+This led us to further exploration of Interaction Combinators and **HVM (Higher-order Virtual Machine)**.
 
 Therefore, our current research path can be summarized as:
 
 ```text
-Lafont's Interaction Nets
+Lafont's Research on Interaction Nets
           │
           ▼
 Understanding Computation
