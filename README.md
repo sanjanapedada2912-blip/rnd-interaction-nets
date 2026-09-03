@@ -44,7 +44,7 @@ Our current research journey is:
                            ▼
                  Future Implementation
 ```
-## Repository Structure
+### Repository Structure
 ```text
 rnd-interaction-nets/
 │
